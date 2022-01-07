@@ -1,4 +1,4 @@
-# Acute Liver Failure Prediction
+# DETECTION AND REDUCTION OF GENDER BIAS IN ACUTE LIVER FAILURE PREDICTION
 
 This project aims to illustrate machine learning for medicine as both an enhancement
 and a potential solution to racial and gender discrimination in the process of medical
@@ -18,7 +18,8 @@ prediction among the two genders and detect, examine and reduce the underlying g
 - You're better off using virtual environment 
 - Find all required packages and their corresponding version in the file requirements.txt
 
-
+## Full Article 
+The full article describing data handling, deployment and optimization of models and techniques applied for bias detection and mitigation is available in the attached PDF called Detection and Reduction of Gender Bias in Acute Liver Failure Prediction.
 ## Conclusions of the project
 
 The aim of this paper was to determine whether representation biases exists in machine
